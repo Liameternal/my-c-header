@@ -125,3 +125,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+### vim
+*~
