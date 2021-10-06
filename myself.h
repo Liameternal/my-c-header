@@ -80,7 +80,6 @@ char** SplitFileName(char* filename, int* fields);
 
 /*
  * Copy any kind of array form source to dest within size bytes
- * not work on wide character
  */
 void CopyArray(void** dest, const void* source, size_t size);
 
